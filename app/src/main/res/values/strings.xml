@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">client</string>
+    <string-array name="images">
+        <item>crab</item>
+        <item>unicorn</item>
+        <item>alien</item>
+        <item>robot</item>
+        <item>octopus</item>
+        <item>frog</item>
+    </string-array>
+</resources>

@@ -1,0 +1,4 @@
+(a)pro: doesn't need internet connection
+   con: will not update properly when access token expires
+(b)pro: will always be valid
+   con: loads slowly (internet based)
